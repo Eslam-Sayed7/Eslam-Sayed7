@@ -35,8 +35,13 @@
 
 ### 📈 GitHub Stats
 
+<!-- <p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Eslam-Sayed7&show_icons=true&theme=tokyonight" alt="Eslam's GitHub Stats"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eslam-Sayed7&layout=compact&theme=tokyonight"/>
+<!-- </p> -->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eslam-Sayed7&show_icons=true&theme=tokyonight" alt="Eslam's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Eslam-Sayed7&show_icons=true&theme=tokyonight&count_private=true&hide=contribs" alt="Eslam's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eslam-Sayed7&layout=compact&theme=tokyonight"/>
 </p>
 

@@ -14,8 +14,7 @@
 - ☁️ Docker & PostgreSQL  
 
 💼 Currently building:  
-- 🔧 [ELearningPlatform](https://github.com/Eslam-Sayed7/ELearningPlatform) – A full-featured learning management system with backend in .NET Core and PostgreSQL  
-- 💡 Open to collaboration and backend projects  
+- 🔧 [ELearningPlatform](https://github.com/Eslam-Sayed7/ELearningPlatform) – A full-featured learning management system with backend in .NET Core and PostgreSQL
 
 ---
 
@@ -29,6 +28,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---

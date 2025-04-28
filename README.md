@@ -51,7 +51,7 @@
 
 ### 📫 Contact Me
 
-- 💼 LinkedIn: [linkedin.com/in/eslam-sayed7](https://www.linkedin.com/in/eslam-sayed7)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/eslam-sayed7](https://www.linkedin.com/in/eslam-sayed-9919161b5/))
 
 ---
 

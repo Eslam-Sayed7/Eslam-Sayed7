@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Eslam Sayed</h1>
 <h3 align="center">A passionate Back End Developer | Aspiring Software Engineer</h3>
+
 ---
 
-🌱 I’m currently learning:  
-- 🌐 Distributed Systems  
-- 🏗️ Clean Architecture  
+🌱 I’m currently Reading / Learning:  
+- 📖 Data Intensive Applications
+- 🌐 Distributed Systems   
 - ☁️ Docker & Kubernetes  
 
 💼 Currently building:  
+- 🔧 [InSpace](https://github.com/Eslam-Sayed7/InSpace-back) - Utilizing CUAs for UITesting -  Graduation Project 
 - 🔧 [Kubelink]([htt](https://github.com/Eslam-Sayed7/KubeLink)) - A Url shortner in microservice Architecture for proof of concept using .NET and Go 
 - 🔧 [ELearningPlatform](https://github.com/Eslam-Sayed7/ELearningPlatform) – A full-featured learning management system with backend in .NET Core and PostgreSQL
 ---
